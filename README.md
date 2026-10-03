@@ -52,7 +52,7 @@ When I'm not working with data, I enjoy playing piano, performing, reading and d
 
 #### Business Intelligence & Analytics
 <p>
-  <img src="https://img.shields.io/badge/A%2FB%20Testing-Intermediate-FF6B6B?style=flat" alt="ETL / Data Transformation">
+ <img src="https://img.shields.io/badge/ETL%20%26%20Data%20Transformation-Advanced-FF6B6B?style=flat" alt="ETL and Data Transformation Skill Badge">
   <img src="https://img.shields.io/badge/Statistical%20Analysis-Intermediate-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
   <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
   <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
